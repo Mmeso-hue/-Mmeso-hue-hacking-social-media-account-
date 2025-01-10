@@ -1,0 +1,14 @@
+
+So this recreation has some extra perks:
+
+Looks and feels like "real" reCAPTCHA (image from the official Google site)
+Validation in the Run box to "hide" the command (✅ "I am not a robot - reCAPTCHA Verification ID: 7624")
+Disabled "Verify" button to further encourage users to complete the copy-paste steps. 🚫
+Fleshed out phish with the follow-up windows "failed to verify"
+Clears the clipboard so the payload command is removed.
+Some code is reused from https://github.com/75a/fake-captcha
+
+🤔 Other Musings
+Perhaps this could be used within an iframe element, or easily embedded as a widget anywhere.
+Perhaps this could have a bit more server-side control to check the client's user-agent and do things differently, or adjust the payload appropriately.
+Perhaps this could be transformed into an easy Github Pages or Vercel tidbit to readily have a public domain and easy tooling
