@@ -1,4 +1,6 @@
 # -Mmeso-hue-hacking-social-media-account-
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMmeso-hue%2F-Mmeso-hue-hacking-social-media-account-.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMmeso-hue%2F-Mmeso-hue-hacking-social-media-account-?ref=badge_shield)
+
 
 Navigation Menu
 Sign in
@@ -497,3 +499,7 @@ Metasploit Unleashed: More Hacking Tricks and commands 👁️⃤
 ⚜ Proactive Cyber Security Roadmap in just 4 steps📌🌎
 Link: https://medium.com/@devvijay7113/proactive-cyber-security-roadmap-in-just-4-steps-1d8e60ade989
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMmeso-hue%2F-Mmeso-hue-hacking-social-media-account-.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMmeso-hue%2F-Mmeso-hue-hacking-social-media-account-?ref=badge_large)
